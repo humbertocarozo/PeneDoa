@@ -10,6 +10,6 @@ Cadastro de Comunidades e Necessitados: Comunidades e pessoas que precisam de do
 Catálogo de Doações Disponíveis: Doadores podem listar os itens disponíveis, permitindo que quem precisa visualize e solicite o que for adequado.
 Histórico de Doações: As doações realizadas e recebidas serão armazenadas para fins de transparência e acompanhamento.
 Tecnologias Utilizadas
-Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
+Este projeto está sendo desenvolvido utilizando a seguinte tecnologia:
 React: Framework JavaScript para criação de interfaces de usuário dinâmicas.
